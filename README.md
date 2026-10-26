@@ -2,6 +2,7 @@
 
 # Cashew
 
+[🎱 Download on the App Store](https://apps.apple.com/ca/app/cashew150/id6758108175)
 A small mobile app for making quick random decisions.
 
 ## Why
