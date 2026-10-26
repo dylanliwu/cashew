@@ -2,8 +2,9 @@
 
 # Cashew
 
-A small mobile app for making big decisions.
 The quickest solution to "idk u choose".
+
+A small mobile app for making big decisions.
 
 [Download on the App Store (IOS)](https://apps.apple.com/ca/app/cashew150/id6758108175)
 
