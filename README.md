@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+<img width="678" height="461" alt="image" src="https://github.com/user-attachments/assets/091b1a03-52c3-4363-91ef-80c9205c4ea7" />
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Cashew
 
-## Get started
+A small mobile app for making quick random decisions.
 
-1. Install dependencies
+## Why
 
-   ```bash
-   npm install
-   ```
+A friend of mine used an app like this, until it got locked behind a paywall. So I made a free one.
 
-2. Start the app
+It's for friend groups that can't decide what to do, where to eat, which trail to take on a hike, what game to play, and so on.
 
-   ```bash
-   npx expo start
-   ```
+## Modes
 
-In the output, you'll find options to open the app in a
+- **Finger picker**: everyone puts a finger on the screen. After a couple of seconds, one is picked at random.
+- **Dice**: swipe up to roll a die.
+- **Coin**: swipe up to flip a coin.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Switch modes with the icons at the top of the screen.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Built with
 
-## Get a fresh project
+Expo, React Native, Expo Router, NativeWind, Reanimated, and Expo Haptics.
 
-When you're ready, run:
+## Running it
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Then open it in Expo Go, or an iOS simulator or Android emulator.
